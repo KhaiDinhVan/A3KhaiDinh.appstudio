@@ -1,3 +1,4 @@
+/*
 let cities = []
 let endCities = false 
 let moreCities = ""
@@ -18,3 +19,4 @@ while (c < cities.length)  {
   console.log(cities[c].toLowerCase())
   c += 1
 }
+*/
